@@ -120,7 +120,7 @@ SurfNet-NEU-Surface-Defect-Classification/
 ├── README.md
 │
 └── results/
-    ├── cv_results.csv
+    ├
     ├── confusion_matrix.png
     ├── training_loss.png
     ├── training_accuracy.png
